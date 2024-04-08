@@ -1,0 +1,10 @@
+/bin/
+.project
+org.*
+.classpath
+*.apk
+/target/
+*.jar
+/tmp/
+/output/
+/Output/
